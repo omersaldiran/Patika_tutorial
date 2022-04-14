@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/bin/Debug/net6.0/structAlistirma
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/bin/Debug/net6.0/structAlistirma.deps.json
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/bin/Debug/net6.0/structAlistirma.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/bin/Debug/net6.0/structAlistirma.dll
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/bin/Debug/net6.0/structAlistirma.pdb
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/structAlistirma.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/structAlistirma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/structAlistirma.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/structAlistirma.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/structAlistirma.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/structAlistirma.dll
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/refint/structAlistirma.dll
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/structAlistirma.pdb
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/structAlistirma.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/structAlistirma/obj/Debug/net6.0/ref/structAlistirma.dll
