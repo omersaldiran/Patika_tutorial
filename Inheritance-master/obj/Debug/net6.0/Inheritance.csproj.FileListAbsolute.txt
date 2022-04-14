@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/Inheritance/bin/Debug/net6.0/Inheritance
+/Users/omersaldiran/Documents/Dotnet/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/Users/omersaldiran/Documents/Dotnet/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/Users/omersaldiran/Documents/Dotnet/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/refint/Inheritance.dll
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll
