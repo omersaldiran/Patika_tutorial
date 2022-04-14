@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/bin/Debug/net6.0/sinifOrnegi
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/bin/Debug/net6.0/sinifOrnegi.deps.json
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/bin/Debug/net6.0/sinifOrnegi.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/bin/Debug/net6.0/sinifOrnegi.dll
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/bin/Debug/net6.0/sinifOrnegi.pdb
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/sinifOrnegi.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/sinifOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/sinifOrnegi.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/sinifOrnegi.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/sinifOrnegi.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/sinifOrnegi.dll
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/refint/sinifOrnegi.dll
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/sinifOrnegi.pdb
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/sinifOrnegi.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/sinifOrnegi/obj/Debug/net6.0/ref/sinifOrnegi.dll

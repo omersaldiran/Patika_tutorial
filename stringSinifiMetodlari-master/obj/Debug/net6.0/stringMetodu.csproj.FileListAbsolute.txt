@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/bin/Debug/net6.0/stringMetodu
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/bin/Debug/net6.0/stringMetodu.deps.json
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/bin/Debug/net6.0/stringMetodu.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/bin/Debug/net6.0/stringMetodu.dll
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/bin/Debug/net6.0/stringMetodu.pdb
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/stringMetodu.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/stringMetodu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/stringMetodu.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/stringMetodu.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/stringMetodu.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/stringMetodu.dll
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/refint/stringMetodu.dll
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/stringMetodu.pdb
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/stringMetodu.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/stringMetodu/obj/Debug/net6.0/ref/stringMetodu.dll
