@@ -1,0 +1,15 @@
+/home/gm/Documents/csharp_projeler/diziler/bin/Debug/net6.0/diziler
+/home/gm/Documents/csharp_projeler/diziler/bin/Debug/net6.0/diziler.deps.json
+/home/gm/Documents/csharp_projeler/diziler/bin/Debug/net6.0/diziler.runtimeconfig.json
+/home/gm/Documents/csharp_projeler/diziler/bin/Debug/net6.0/diziler.dll
+/home/gm/Documents/csharp_projeler/diziler/bin/Debug/net6.0/diziler.pdb
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/diziler.csproj.AssemblyReference.cache
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/diziler.AssemblyInfoInputs.cache
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/diziler.AssemblyInfo.cs
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/diziler.csproj.CoreCompileInputs.cache
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/diziler.dll
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/refint/diziler.dll
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/diziler.pdb
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/diziler.genruntimeconfig.cache
+/home/gm/Documents/csharp_projeler/diziler/obj/Debug/net6.0/ref/diziler.dll

@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/encapsulation/bin/Debug/net6.0/encapsulation
+/Users/omersaldiran/Documents/Dotnet/encapsulation/bin/Debug/net6.0/encapsulation.deps.json
+/Users/omersaldiran/Documents/Dotnet/encapsulation/bin/Debug/net6.0/encapsulation.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/encapsulation/bin/Debug/net6.0/encapsulation.dll
+/Users/omersaldiran/Documents/Dotnet/encapsulation/bin/Debug/net6.0/encapsulation.pdb
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/encapsulation.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/encapsulation.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/encapsulation.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/encapsulation.dll
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/refint/encapsulation.dll
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/encapsulation.pdb
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/encapsulation.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/encapsulation/obj/Debug/net6.0/ref/encapsulation.dll
