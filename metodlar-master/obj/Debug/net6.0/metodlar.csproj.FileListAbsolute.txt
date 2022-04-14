@@ -1,0 +1,15 @@
+/home/gm/Documents/csharp_projeler/metodlar/bin/Debug/net6.0/metodlar
+/home/gm/Documents/csharp_projeler/metodlar/bin/Debug/net6.0/metodlar.deps.json
+/home/gm/Documents/csharp_projeler/metodlar/bin/Debug/net6.0/metodlar.runtimeconfig.json
+/home/gm/Documents/csharp_projeler/metodlar/bin/Debug/net6.0/metodlar.dll
+/home/gm/Documents/csharp_projeler/metodlar/bin/Debug/net6.0/metodlar.pdb
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/metodlar.csproj.AssemblyReference.cache
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/metodlar.GeneratedMSBuildEditorConfig.editorconfig
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/metodlar.AssemblyInfoInputs.cache
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/metodlar.AssemblyInfo.cs
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/metodlar.csproj.CoreCompileInputs.cache
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/metodlar.dll
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/refint/metodlar.dll
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/metodlar.pdb
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/metodlar.genruntimeconfig.cache
+/home/gm/Documents/csharp_projeler/metodlar/obj/Debug/net6.0/ref/metodlar.dll

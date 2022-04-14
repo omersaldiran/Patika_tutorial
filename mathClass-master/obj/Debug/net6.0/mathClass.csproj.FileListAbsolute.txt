@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/mathClass/bin/Debug/net6.0/mathClass
+/Users/omersaldiran/Documents/Dotnet/mathClass/bin/Debug/net6.0/mathClass.deps.json
+/Users/omersaldiran/Documents/Dotnet/mathClass/bin/Debug/net6.0/mathClass.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/mathClass/bin/Debug/net6.0/mathClass.dll
+/Users/omersaldiran/Documents/Dotnet/mathClass/bin/Debug/net6.0/mathClass.pdb
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/mathClass.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/mathClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/mathClass.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/mathClass.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/mathClass.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/mathClass.dll
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/refint/mathClass.dll
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/mathClass.pdb
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/mathClass.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/mathClass/obj/Debug/net6.0/ref/mathClass.dll

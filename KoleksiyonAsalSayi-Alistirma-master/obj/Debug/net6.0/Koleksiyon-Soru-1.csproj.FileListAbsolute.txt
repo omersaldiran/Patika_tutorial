@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/bin/Debug/net6.0/Koleksiyon-Soru-1
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/bin/Debug/net6.0/Koleksiyon-Soru-1.deps.json
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/bin/Debug/net6.0/Koleksiyon-Soru-1.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/bin/Debug/net6.0/Koleksiyon-Soru-1.dll
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/bin/Debug/net6.0/Koleksiyon-Soru-1.pdb
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/Koleksiyon-Soru-1.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/Koleksiyon-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/Koleksiyon-Soru-1.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/Koleksiyon-Soru-1.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/Koleksiyon-Soru-1.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/Koleksiyon-Soru-1.dll
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/refint/Koleksiyon-Soru-1.dll
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/Koleksiyon-Soru-1.pdb
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/Koleksiyon-Soru-1.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/Koleksiyon-Soru-1/obj/Debug/net6.0/ref/Koleksiyon-Soru-1.dll
