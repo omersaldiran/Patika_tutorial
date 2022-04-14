@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/bin/Debug/net6.0/algoritmaAlistirmalari
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/bin/Debug/net6.0/algoritmaAlistirmalari.deps.json
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/bin/Debug/net6.0/algoritmaAlistirmalari.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/bin/Debug/net6.0/algoritmaAlistirmalari.dll
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/bin/Debug/net6.0/algoritmaAlistirmalari.pdb
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/algoritmaAlistirmalari.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/algoritmaAlistirmalari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/algoritmaAlistirmalari.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/algoritmaAlistirmalari.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/algoritmaAlistirmalari.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/algoritmaAlistirmalari.dll
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/refint/algoritmaAlistirmalari.dll
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/algoritmaAlistirmalari.pdb
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/algoritmaAlistirmalari.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/algoritmaAlistirmalari/obj/Debug/net6.0/ref/algoritmaAlistirmalari.dll
