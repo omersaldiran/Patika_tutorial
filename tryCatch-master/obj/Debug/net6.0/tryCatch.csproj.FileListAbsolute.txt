@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/tryCatch/bin/Debug/net6.0/tryCatch
+/Users/omersaldiran/Documents/Dotnet/tryCatch/bin/Debug/net6.0/tryCatch.deps.json
+/Users/omersaldiran/Documents/Dotnet/tryCatch/bin/Debug/net6.0/tryCatch.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/tryCatch/bin/Debug/net6.0/tryCatch.dll
+/Users/omersaldiran/Documents/Dotnet/tryCatch/bin/Debug/net6.0/tryCatch.pdb
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/tryCatch.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/tryCatch.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/tryCatch.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/tryCatch.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/tryCatch.dll
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/refint/tryCatch.dll
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/tryCatch.pdb
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/tryCatch.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/tryCatch/obj/Debug/net6.0/ref/tryCatch.dll
