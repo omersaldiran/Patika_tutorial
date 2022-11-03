@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: yellowgreen;
+}
+
+.centered {
+    text-align: center;
+}
+
+.margin {
+    margin: 0.5em;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+
+.list-center {
+    margin: auto;
+    list-style-position: inside;
+}
+
+.ul-width {
+    width: 10px;
+    margin: auto;
+    
+}
